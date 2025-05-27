@@ -16,9 +16,12 @@ ElevateLabs Internship Task2
 I have used a **spoofed Microsoft security alert** email claiming there was a suspicious login attempt from Russia. The user is prompted to click a link to verify activity.
 
 **Sample Email:**
-![Screenshot 2025-05-27 121122](https://github.com/user-attachments/assets/e67d3aeb-1e44-43b2-9fa2-af97af486478)
+
+![image](https://github.com/user-attachments/assets/93560c42-8c0c-4a5e-9d11-66c291c42def)
 
 ### 2. **Examine Sender’s Email Address For Spoofing**
+![image](https://github.com/user-attachments/assets/ceb4e1a1-30da-45d3-96a0-095588533219)
+
 **From Address:**  
 `account-security@microsoft-supportcenter.com`  
 🧨 **Issue:** This is a **spoofed domain**. The real Microsoft domain would be something like `@account.microsoft.com` or `@accountprotection.microsoft.com`.
