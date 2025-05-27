@@ -64,3 +64,15 @@ The CTA button **looks like a safe link**, but hovering shows a **malicious or m
 | Generic greeting | ✅ | “Dear User” instead of real name |
 | Typos/grammar errors | ✅ | Found in email body |
 | Visual design | ⚠️ | Looks real but faked |
+
+### ✅**What I Did(and you should too)**
+- Do not click any links.
+- Do not reply to the sender.
+- Reported the email to the real Microsoft (`@microsoft.com`).
+- Deleted it immediately.
+- Enabled two-factor authentication (2FA) on my accounts for extra protection.
+
+### 📬 Feedback
+- If you have feedback or want to contribute more phishing examples, feel free to open an issue or submit a pull request.
+
+**Stay safe online.**
